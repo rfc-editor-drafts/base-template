@@ -4,7 +4,7 @@
 	"name": "rfced",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "ghcr.io/rfc-editor-drafts/rfced-base:latest",
-
+	"workspaceFolder": "/workspace",
 	"shutdownAction": "stopContainer",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
