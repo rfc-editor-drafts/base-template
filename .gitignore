@@ -1,0 +1,12 @@
+# the devcontainer lock file
+.devcontainer/devcontainer-lock.json
+
+# the macOS folder attributes file
+.DS_Store
+
+# aspell files
+.aspell.en.prepl
+.aspell.en.pws
+
+# kramdown-rfc's reference cache
+.refcache/
